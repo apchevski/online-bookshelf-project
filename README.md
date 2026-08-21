@@ -2,6 +2,12 @@
 
 The Bookshelf project is a web application that allows users to manage a collection of books in a PostgreSQL database. The project is built using Spring Boot and Hibernate on the back-end, and HTML, CSS and JavaScript on the front-end.
 
+<p align="center">
+  <img src="media/videos/AppDemo.gif"
+       alt="Bookshelf walkthrough: browsing the shelf, opening a book's description, and adding, updating and deleting books"
+       width="850">
+</p>
+
 ## Technology Stack
 
 The Bookshelf project uses the following technologies:
